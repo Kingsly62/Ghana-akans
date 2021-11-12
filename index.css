@@ -9,5 +9,11 @@
 
 .menu {
     background-color: bisque;
+    padding: 50px;
     
+}
+
+body{
+    margin-left: 5vw !important;
+    margin-right: 5vw !important;
 }
