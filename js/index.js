@@ -9,19 +9,22 @@ function akanFamily(event){
     let date = document.getElementById("date").value;
     let gender = document.getElementById("gender").value;
     let dayNumber = new Date(date).getDay()
+if (gender=='' || date==''){
+    alert('Kindly type in both gender and date')
+}
 
-if (gender == 'Male'){
-       console.log(`You were born on 
+else if (gender == 'Male'){
+      alert(`You were born on 
       ${weekDays[dayNumber]} and your Akan name is
       ${maleAkans[dayNumber]}
 `)
 }else if (gender == 'Female'){
-     console.log(`You were born on 
+     alert(`You were born on 
      ${weekDays[dayNumber]} and your Akan name is
      ${femaleAkans[dayNumber]}
     `)   
 }else{
-console.log('Make your gender selection kindly for more information');
+alert('Make your gender selection kindly for more information');
 }
 
 
