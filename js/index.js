@@ -12,6 +12,9 @@ function akanFamily(event){
 if (gender=='' || date==''){
     alert('Kindly type in both gender and date')
 }
+else if(date==''){
+     alert('Type in date of your birth')
+}
 
 else if (gender == 'Male'){
       alert(`You were born on 
@@ -24,7 +27,7 @@ else if (gender == 'Male'){
      ${femaleAkans[dayNumber]}
     `)   
 }else{
-alert('Make your gender selection kindly for more information');
+     alert('Make your gender selection kindly for more information');
 }
 
 
