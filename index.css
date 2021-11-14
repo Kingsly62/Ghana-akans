@@ -1,11 +1,17 @@
 .akan{
     color: red;
-    background-image: url('/Images/ghana1.jpg');
+    background-image: url('/Images/ghana2.png');
     padding: 70px;
+    align-content: center;
+    opacity: 0.8;
 }
 
 .akan p {
-    color: white;
+    color: goldenrod;
+    float: right;
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
 }
 
 .menu {
@@ -44,13 +50,29 @@ body{
   }
   
   input[type=submit]:hover {
-    opacity: 0.8;
+    opacity: 0.5;
   }
 
   .contact{
       background-color: cadetblue;
   }
 
+  .footer{
+    background-color: chartreuse;
+    display: flex!important;
+  }
+
   #Contact{
       font-size: large;
+  }
+
+  .footer ul{
+    display: flex;
+    list-style: none;
+    align-content: center;
+  
+  }
+
+  .akan h2{
+    align-content: center;
   }
