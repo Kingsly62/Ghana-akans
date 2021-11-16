@@ -62,7 +62,9 @@ via:
 
 .Phone number 2: +254708657996
 
-.Facebook(Meta):clintonkioge.
+.Facebook(Meta):clintonkioge
+
+Linkdn:Clinton Kioge
 
 ### License
 
