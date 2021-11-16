@@ -51,7 +51,7 @@ I have purely appllied ;
 
 ## Link to my website Project
 
-[click Here](/)
+[click Here](https://kingsly62.github.io/Ghana-akans/)
 
 ## Support and contact details
 
@@ -75,3 +75,5 @@ Copyright (c) 2021
 
 1.Moringa School <br>Located in Nairobi Kenya
 along Ngong Road
+
+[Map Location](https://www.google.com/maps/place/Moringa+School/@-1.3005548,36.7848519,17z/data=!4m12!1m6!3m5!1s0x182f1a6bf7445dc1:0x940b62a3c8efde4c!2sMoringa+School!8m2!3d-1.3004862!4d36.7846067!3m4!1s0x182f1a6bf7445dc1:0x940b62a3c8efde4c!8m2!3d-1.3004862!4d36.7846067/)
